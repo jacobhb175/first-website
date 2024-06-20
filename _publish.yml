@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: ced3513c-5db7-492e-9c84-6686b1d5a14d
+      url: 'https://jhardinbernhardt.quarto.pub/a-new-website'
