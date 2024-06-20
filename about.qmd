@@ -1,5 +1,8 @@
 ---
 title: "About"
 ---
+## About Me
 
-About this new site
+My name is **Jacob Hardin-Bernhardt**, and I attend *New York University*.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
